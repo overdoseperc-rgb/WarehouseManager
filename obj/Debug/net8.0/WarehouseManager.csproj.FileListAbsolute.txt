@@ -1,0 +1,16 @@
+C:\Users\misarry\Desktop\WarehouseManager\bin\Debug\net8.0\products.csv
+C:\Users\misarry\Desktop\WarehouseManager\bin\Debug\net8.0\WarehouseManager.exe
+C:\Users\misarry\Desktop\WarehouseManager\bin\Debug\net8.0\WarehouseManager.deps.json
+C:\Users\misarry\Desktop\WarehouseManager\bin\Debug\net8.0\WarehouseManager.runtimeconfig.json
+C:\Users\misarry\Desktop\WarehouseManager\bin\Debug\net8.0\WarehouseManager.dll
+C:\Users\misarry\Desktop\WarehouseManager\bin\Debug\net8.0\WarehouseManager.pdb
+C:\Users\misarry\Desktop\WarehouseManager\obj\Debug\net8.0\WarehouseManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misarry\Desktop\WarehouseManager\obj\Debug\net8.0\WarehouseManager.AssemblyInfoInputs.cache
+C:\Users\misarry\Desktop\WarehouseManager\obj\Debug\net8.0\WarehouseManager.AssemblyInfo.cs
+C:\Users\misarry\Desktop\WarehouseManager\obj\Debug\net8.0\WarehouseManager.csproj.CoreCompileInputs.cache
+C:\Users\misarry\Desktop\WarehouseManager\obj\Debug\net8.0\WarehouseManager.dll
+C:\Users\misarry\Desktop\WarehouseManager\obj\Debug\net8.0\refint\WarehouseManager.dll
+C:\Users\misarry\Desktop\WarehouseManager\obj\Debug\net8.0\WarehouseManager.pdb
+C:\Users\misarry\Desktop\WarehouseManager\obj\Debug\net8.0\WarehouseManager.genruntimeconfig.cache
+C:\Users\misarry\Desktop\WarehouseManager\obj\Debug\net8.0\ref\WarehouseManager.dll
+C:\Users\misarry\Desktop\WarehouseManager\obj\Debug\net8.0\Warehous.21FBC53C.Up2Date

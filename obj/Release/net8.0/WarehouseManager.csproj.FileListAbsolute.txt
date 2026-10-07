@@ -1,0 +1,15 @@
+C:\Users\misarry\Documents\Codex\2026-10-07\referenced-chatgpt-conversation-this-is-an\outputs\WarehouseManager\bin\Release\net8.0\products.csv
+C:\Users\misarry\Documents\Codex\2026-10-07\referenced-chatgpt-conversation-this-is-an\outputs\WarehouseManager\bin\Release\net8.0\WarehouseManager.exe
+C:\Users\misarry\Documents\Codex\2026-10-07\referenced-chatgpt-conversation-this-is-an\outputs\WarehouseManager\bin\Release\net8.0\WarehouseManager.deps.json
+C:\Users\misarry\Documents\Codex\2026-10-07\referenced-chatgpt-conversation-this-is-an\outputs\WarehouseManager\bin\Release\net8.0\WarehouseManager.runtimeconfig.json
+C:\Users\misarry\Documents\Codex\2026-10-07\referenced-chatgpt-conversation-this-is-an\outputs\WarehouseManager\bin\Release\net8.0\WarehouseManager.dll
+C:\Users\misarry\Documents\Codex\2026-10-07\referenced-chatgpt-conversation-this-is-an\outputs\WarehouseManager\bin\Release\net8.0\WarehouseManager.pdb
+C:\Users\misarry\Documents\Codex\2026-10-07\referenced-chatgpt-conversation-this-is-an\outputs\WarehouseManager\obj\Release\net8.0\WarehouseManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misarry\Documents\Codex\2026-10-07\referenced-chatgpt-conversation-this-is-an\outputs\WarehouseManager\obj\Release\net8.0\WarehouseManager.AssemblyInfoInputs.cache
+C:\Users\misarry\Documents\Codex\2026-10-07\referenced-chatgpt-conversation-this-is-an\outputs\WarehouseManager\obj\Release\net8.0\WarehouseManager.AssemblyInfo.cs
+C:\Users\misarry\Documents\Codex\2026-10-07\referenced-chatgpt-conversation-this-is-an\outputs\WarehouseManager\obj\Release\net8.0\WarehouseManager.csproj.CoreCompileInputs.cache
+C:\Users\misarry\Documents\Codex\2026-10-07\referenced-chatgpt-conversation-this-is-an\outputs\WarehouseManager\obj\Release\net8.0\WarehouseManager.dll
+C:\Users\misarry\Documents\Codex\2026-10-07\referenced-chatgpt-conversation-this-is-an\outputs\WarehouseManager\obj\Release\net8.0\refint\WarehouseManager.dll
+C:\Users\misarry\Documents\Codex\2026-10-07\referenced-chatgpt-conversation-this-is-an\outputs\WarehouseManager\obj\Release\net8.0\WarehouseManager.pdb
+C:\Users\misarry\Documents\Codex\2026-10-07\referenced-chatgpt-conversation-this-is-an\outputs\WarehouseManager\obj\Release\net8.0\WarehouseManager.genruntimeconfig.cache
+C:\Users\misarry\Documents\Codex\2026-10-07\referenced-chatgpt-conversation-this-is-an\outputs\WarehouseManager\obj\Release\net8.0\ref\WarehouseManager.dll
